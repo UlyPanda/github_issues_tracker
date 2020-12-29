@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import SearchPage from './Components/SearchPage';
 import NewsList from './Components/NewsList';
